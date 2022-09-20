@@ -15,3 +15,22 @@ Selenium is an open source automation testing tool that supports a number of scr
 
 **Packges:**
 * pip install selenium
+
+## Versioning
+
+We use [mou47rad](https://github.com/mou47rad) for versioning. For the versions available, see the [tags on this repository](https://github.com/mou47rad/Twitter_Add_Comment/tags)
+
+## Authors
+
+* **Zahouani Mourad** - *Initial work* - [mou47rad](https://github.com/mou47rad)
+
+See also the list of [contributors](https://github.com/mou47rad/Twitter_Add_Comment/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone who's code was used
+* Inspiration
